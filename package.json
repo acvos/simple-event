@@ -1,7 +1,7 @@
 {
   "name": "simple-event",
   "description": "Simple event implementation",
-  "keywords": "event, dispatch",
+  "keywords": "event, dispatcher, message",
   "version": "1.0.4",
   "repository": {
     "type": "git",
