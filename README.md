@@ -6,7 +6,7 @@ This is an essential building block for any reactive-style library or applicatio
 
 ## Features
 - Subscribe and unsubscribe listeners
-- Optianally send any payload when emitting event
+- Optionally send any payload when emitting event
 - Emit promises: the event will be fired off automatically when the promise resolves
 
 ## Installation
